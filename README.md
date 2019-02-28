@@ -6,7 +6,7 @@ The KAIST logo and colour profile are adapted from http://www.kaist.edu/html/en/
 
 ## Screenshot
 
-Screenshots from [example/presentation.pdf](example/presentation.pdf).
+Screenshots from [example/presentation.pdf](https://github.com/mewspring/kaist-beamer-template/raw/master/example/presentation.pdf).
 
 ![Title page](example/page-0.png)
 
