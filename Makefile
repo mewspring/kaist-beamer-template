@@ -1,7 +1,7 @@
 all: presentation.pdf
 
 %.pdf: %.tex
-	latexrun --latex-cmd=xelatex -o presentation.pdf presentation.tex
+	latexrun --latex-cmd=xelatex -o $@ $<
 
 .PHONY: all clean
 
